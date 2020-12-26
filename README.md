@@ -1,4 +1,4 @@
-# Bash (linux) Configuration Setup
+# Bash Configuration Setup
 This tool assumes you've cloned this repo into your home directory (`~/bash-nix-setup`).
 If you've cloned it somewhere else you'll need to adjust the path on line 1 of `template.bashrc` to point to the actual location.
 You'll also need to adjust the path in step 2 of the setup instructions below.

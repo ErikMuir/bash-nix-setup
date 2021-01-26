@@ -34,3 +34,7 @@ prepend_path () {
   fi
 }
 
+enable_rdp () {
+  sudo service xrdp start
+  sudo service xrdp-sesman start
+}
